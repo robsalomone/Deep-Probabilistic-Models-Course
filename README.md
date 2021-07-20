@@ -1,1 +1,1 @@
-# Materials for AMSI WinterSchool 2021: "Deep Probabilistic Models"
+### Materials for AMSI Winter School 2021: "Deep Probabilistic Models"
