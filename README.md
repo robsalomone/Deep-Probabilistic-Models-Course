@@ -6,5 +6,7 @@ Topics covered:
 - Deep Latent Variable Models and Variational Learning 
 - Variational Autoencoders
 
+Slides are available at: https://robsalomone.com/course-deep-probabilistic-models/
+
 Examples are implemented using PyTorch and Pyro. 
 
