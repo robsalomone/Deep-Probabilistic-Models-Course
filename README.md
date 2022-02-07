@@ -1,3 +1,4 @@
+# Deep Probabilistic Models
 Materials for Australian Mathematical Sciences Institute (AMSI) Winter School 2021: "Deep Probabilistic Models". 
 
 Topics covered: 
